@@ -158,11 +158,11 @@ button {
 .block2 {
     width: 1200px;
     height: 576px;
-    margin-left: 70px;
-    z-index: -2;
+    margin-left: 157px;
+    
     bottom: 165px;
     position: relative;
-    background-color: #575445;
+    
     display: flex;
     justify-content: center;
     
@@ -179,8 +179,8 @@ button {
 .textblockk {
    width: 576px;
    
-    background-color: #E6B939;
-    text-align: center;
+   
+    
    padding-top: 100px;
      
     width: 100%;
@@ -188,5 +188,33 @@ button {
 .textmore{
     width: 400px;
     height: 227px;
+   padding-left: 104px;
+}
+.photo2{
+    opacity: 0.9;
+}
+.zagtextblock{
+    color:rgba(230, 185, 57, 1);
+    Letter-spacing: 2px;
+    font-size: 14px;
+  font-weight: 400;
+}
+.glavtext{
+    color: rgba(87, 84, 69, 1);
+    font-size: 36px;
+}
+.textblockglav{
+    color: rgba(87, 84, 69, 1);
     
+    font-size: 16px;
+}
+.link12{
+    color: rgba(87, 84, 69, 1);
+    font-size: 15px;
+}
+.decaration2{
+    left: 29px;
+    z-index: -1;
+    bottom: 300px;
+    position: relative;
 }
